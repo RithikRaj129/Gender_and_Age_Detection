@@ -16,6 +16,16 @@
        pip install opencv-python
 </ul>
 <ul>
+  <li>tensorflow</li>
+  
+       pip install tesnsorflow
+</ul>
+<ul>
+  <li>keras</li>
+  
+       pip install keras
+</ul>
+<ul>
  <li>argparse</li>
   
        pip install argparse
